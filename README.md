@@ -7,6 +7,10 @@ Web Application to convert Image to Text in React
 
 Using tesseract library we can easily convert the image to text and also doesn't need any ML model for recognize the text.
 
+## Snapshot
+![Snapshot 1](https://github.com/Dharmik3/Image-to-Text-in-React/blob/main/ss1.png)
+![Snapshot 2](https://github.com/Dharmik3/Image-to-Text-in-React/blob/main/ss2.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
